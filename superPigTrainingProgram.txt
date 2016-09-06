@@ -1,2 +1,3 @@
-GrzesiuBędzieDevopsem
+﻿GrzesiuBędzieDevopsem
 We have to create good reviewing soluttion
+robie zmiane
